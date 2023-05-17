@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.searchandsort.DatabaseTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.497 sec <<< FAILURE!
+com.searchandsort.DatabaseTest.testGetData()  Time elapsed: 0.011 sec  <<< FAILURE!
+java.lang.UnsupportedOperationException: Not supported yet.
+	at com.searchandsort.Database.getData(Database.java:91)
+	at com.searchandsort.DatabaseTest.testGetData(DatabaseTest.java:45)
+
